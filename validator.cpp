@@ -2,13 +2,15 @@
 using namespace std;
 #include <stdlib.h>
 
+//ISBN Validator Problem
+
 int main()
 {
 	int cases;
 	do{
 	
 		cout<<"Enter the number of cases"<<endl;
-		cin>>cases;					//might want to check if it is valid data type
+		cin>>cases;					
 
 	}while(cases<=0);
 	
