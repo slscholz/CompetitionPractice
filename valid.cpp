@@ -2,6 +2,10 @@
 using namespace std;
 #include <vector>
 
+/*
+pangram tester
+*/
+
 int main()
 {
 	string word;
